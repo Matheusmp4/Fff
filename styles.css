@@ -187,9 +187,9 @@ nav ul li a:hover {
 
 .carousel-slide img {
     width: 550px;
-    height: 1200px;
+    height: 1000px;
    border-color white;
-   border-radius: 5px;
+   border-radius: 7px;
    box-shadow: white;
 }
 
